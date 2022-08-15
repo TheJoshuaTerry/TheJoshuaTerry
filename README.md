@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Joshua Terry
 - 👀 I’m interested in AI programming
-- 🌱 I’m currently learning Python, C, and C++
+- ✨ I’m currently experienced in Python, C, and C++. ✨
+- 🌱 Learning Java, JavaScript, SQL, and C#.
 - 💞️ I’m looking to collaborate on AI Programming to create drone paths that can be altered by enviromental varibles allowing for remote installation of computer and security equipment.
 - 📫 You can reach me at my email: joshterry1990@live.com
 
